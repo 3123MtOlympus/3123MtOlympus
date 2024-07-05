@@ -30,7 +30,7 @@ A first time project during studies.
 
 ## Get in Touch
 
-- LinkedIn: [Christopher Carter](https://www.linkedin.com/in/christopher-carter-95692a266)
+- LinkedIn: [Christopher Carter](https://www.linkedin.com/in/londochristophe)
 - Instagram: [@londochristophe](https://instagram.com/londochristophe)
 - Email: realchrislondon@gmail.com
 
