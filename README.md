@@ -1,4 +1,4 @@
-# londochristophe
+
 # Hi there, I'm Chris 👋
 
 ![Header Image](https://yourimageurl.com)
@@ -7,7 +7,7 @@
 
 I am a Full Stack Web Developer with a passion for developing new ideas. I love working on innovative projects and exploring new technologies. Currently, I am a estate manager and caregiver.
 
-- 🔭 I’m currently working on [CurrusX](https://github.com/yourusername/CurrusX)
+- 🔭 I’m currently working on [barbershop](https://github.com/3123mtolympus/Client-001-barbershop)
 - 📫 How to reach me: realchrislondon@gmail.com
 
 ## Skills
@@ -25,8 +25,8 @@ A residential car charging app
 ### [NeighborLy] ([https://github.com/3123MtOlympus/NeighborLY.git])
 A community awareness app].
 
-### [ThePrepProject] ([https://github.com/3123MtOlympus/theprepproject.git])
-A first time project during studies.
+### [barbershop](https://github.com/3123mtolympus/Client-001-barbershop.git)
+Client site for hire. First client
 
 ## Get in Touch
 
