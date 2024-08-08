@@ -1,8 +1,6 @@
 
 # Hi there, I'm Chris 👋
 
-![Header Image](https://yourimageurl.com)
-
 ## About Me
 
 I am a Full Stack Web Developer with a passion for developing new ideas. I love working on innovative projects and exploring new technologies. Currently, I am a estate manager and caregiver.
