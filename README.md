@@ -5,7 +5,7 @@
 
 I am a Full Stack Web Developer with a passion for developing new ideas. I love working on innovative projects and exploring new technologies. Currently, I am a estate manager and caregiver.
 
-- 🔭 I’m currently working on [barbershop](https://github.com/3123mtolympus/Client-001-barbershop)
+- 🔭 I’m currently working on [caregiver](https://github.com/3123mtolympus/Client002-caregiver)
 - 📫 How to reach me: realchrislondon@gmail.com
 
 ## Skills
